@@ -1,7 +1,9 @@
 class Artist
   
-  def initialize (name)
+  
+  def initialize
     @name = name
+    @artist = artist
   end
   
 end
